@@ -1,17 +1,35 @@
 {
     "Healthy": {
         "disease": "Healthy",
+        "severity": "None",
         "pesticide": "No pesticide needed.",
-        "treatment": "Maintain regular watering and monitor for any changes."
+        "treatment": "Maintain regular watering and monitor for any changes.",
+        "fertilizer": "Balanced NPK 10-10-10 every 2 weeks.",
+        "organic_option": "Compost or vermicompost.",
+        "watering": "Water when top soil feels dry.",
+        "sunlight": "6–8 hours of direct sunlight.",
+        "prevention": "Regular inspection and proper spacing."
     },
     "Powdery": {
         "disease": "Powdery Mildew",
+        "severity": "Moderate",
         "pesticide": "Sulfur-based fungicides or Neem oil.",
-        "treatment": "Improve air circulation, avoid overhead watering, and remove infected leaves."
+        "treatment": "Improve air circulation, avoid overhead watering, and remove infected leaves.",
+        "fertilizer": "Low nitrogen fertilizer (5-10-10).",
+        "organic_option": "Baking soda spray or Neem oil.",
+        "watering": "Water at soil level, not on leaves.",
+        "sunlight": "Full sunlight to reduce moisture.",
+        "prevention": "Avoid overcrowding and ensure airflow."
     },
     "Rust": {
         "disease": "Rust",
+        "severity": "Severe",
         "pesticide": "Copper-based fungicides or Mancozeb.",
-        "treatment": "Remove and destroy infected plant parts, ensure adequate spacing between plants, and avoid wetting foliage."
+        "treatment": "Remove and destroy infected plant parts, ensure adequate spacing, and avoid wet foliage.",
+        "fertilizer": "Potassium-rich fertilizer (8-12-16).",
+        "organic_option": "Neem oil or compost tea.",
+        "watering": "Water early morning at root level.",
+        "sunlight": "Full sunlight preferred.",
+        "prevention": "Crop rotation and disease-resistant varieties."
     }
 }
