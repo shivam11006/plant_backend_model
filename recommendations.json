@@ -1,0 +1,17 @@
+{
+    "Healthy": {
+        "disease": "Healthy",
+        "pesticide": "No pesticide needed.",
+        "treatment": "Maintain regular watering and monitor for any changes."
+    },
+    "Powdery": {
+        "disease": "Powdery Mildew",
+        "pesticide": "Sulfur-based fungicides or Neem oil.",
+        "treatment": "Improve air circulation, avoid overhead watering, and remove infected leaves."
+    },
+    "Rust": {
+        "disease": "Rust",
+        "pesticide": "Copper-based fungicides or Mancozeb.",
+        "treatment": "Remove and destroy infected plant parts, ensure adequate spacing between plants, and avoid wetting foliage."
+    }
+}
